@@ -20,6 +20,7 @@ The download package includes:
 
 ## Dataset Structure
 
+```
 IITR-VSOD-DATA/
 ├── videos/
 │   └── ...
@@ -29,6 +30,7 @@ IITR-VSOD-DATA/
 ├── val.txt
 ├── test.txt
 └── difficulty_labels.txt
+```
 
 ---
 
