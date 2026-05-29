@@ -8,7 +8,7 @@ This repository provides companion scripts for the IITR-VSOD Infrared Video Sali
 
 The IITR-VSOD dataset is publicly available at:
 
-- **Zenodo**: [https://doi.org/10.5281/zenodo.20438633]
+- **Zenodo**: [https://doi.org/10.5281/zenodo.20439769]
 
 The download package includes:
 - 1,470 infrared video sequences (`videos/`)
